@@ -1,2 +1,6 @@
 DataSet/
 model_saves/
+
+# Fichiers générés
+*.gif
+*.log
